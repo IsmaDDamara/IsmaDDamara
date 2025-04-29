@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Isma Dian Damara
 
-I'm a **Data Analyst** with over 6 months of hands-on experience as a Data Science and Data Analyst Intern. I've contributed to a variety of data-driven projects, including **sales trend analysis**, **user segmentation**, and **machine learning model development**.
-
-I specialize in transforming raw data into actionable insights that support strategic decision-making. My goal is to deliver data that is **accurate**, **relevant**, and **easy to understand** — enabling smarter business outcomes.
+I'm a **Data Analyst** with over 6 months of hands-on experience as a Data Science and Data Analyst Intern. I've contributed to a variety of data-driven projects. I specialize in transforming raw data into actionable insights that support strategic decision-making. My goal is to deliver data that is **accurate**, **relevant**, and **easy to understand** — enabling smarter business outcomes.
 
 ---
 
